@@ -39,7 +39,7 @@
         android:layout_width="297dp"
         android:layout_height="48dp"
         android:layout_marginBottom="104dp"
-        android:backgroundTint="@color/design_default_color_secondary_variant"
+        android:backgroundTint="#1A8A92"
         android:text="@string/trivia_quiz_btn"
         android:textAllCaps="true"
         android:textSize="17sp"
