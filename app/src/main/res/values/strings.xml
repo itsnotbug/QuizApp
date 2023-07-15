@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_one_question">Which flies a green, white, and orange (in that order) tricolor flag?</string>
+    <string name="quiz_two_question">What company makes the Xperia model of smartphone?</string>
+    <string name="quiz_three_question">Which city is home to the Brandenburg Gate?</string>
+    <string name="quiz_four_question">Which of the following is NOT a fruit?</string>
+    <string name="quiz_five_question">Where was the first example of paper money used?</string>
+    <string name="quiz_six_question">If you were looking at Iguazu Falls, on what continent would you be?</string>
+    <string name="quiz_seven_question">Which of the following languages has the longest alphabet?</string>
+    <string name="quiz_eight_question">The fear of insects is known as what?</string>
+    <string name="quiz_nine_question">Which app has the most total users?</string>
+    <string name="quiz_ten_question">Who directed the Academy Award-winning movie, Gladiator?</string>
+
+    <string name="trivia_quiz_btn">Lets get started</string>
+    <string name="display_quiz_main">Trivia Questions</string>
+
+    <string name="quiz_one_opt1">Ireland</string>
+    <string name="quiz_one_opt2">Italy</string>
+    <string name="quiz_one_opt3">Ivory Coast</string>
+
+    <string name="quiz_two_opt1">Samsung</string>
+    <string name="quiz_two_opt2">Sony</string>
+    <string name="quiz_two_opt3">Nokia</string>
+
+    <string name="quiz_three_opt1">Vienna</string>
+    <string name="quiz_three_opt2">Zurich</string>
+    <string name="quiz_three_opt3">Berlin</string>
+
+    <string name="quiz_four_opt1">Rhubarb</string>
+    <string name="quiz_four_opt2">Tomatoes</string>
+    <string name="quiz_four_opt3">Avocados</string>
+
+    <string name="quiz_five_opt1">China</string>
+    <string name="quiz_five_opt2">Turkey</string>
+    <string name="quiz_five_opt3">Greece</string>
+
+    <string name="quiz_six_opt1">Asia</string>
+    <string name="quiz_six_opt2">Africa</string>
+    <string name="quiz_six_opt3">South America</string>
+
+    <string name="quiz_seven_opt1">Greek</string>
+    <string name="quiz_seven_opt2">Russian</string>
+    <string name="quiz_seven_opt3">Arabic</string>
+
+
+    <string name="quiz_eight_opt1">Entomophobia</string>
+    <string name="quiz_eight_opt2">Arachnophobia</string>
+    <string name="quiz_eight_opt3">Ailurophobia</string>
+
+    <string name="quiz_nine_opt1">Tiktok</string>
+    <string name="quiz_nine_opt2">Snapchat</string>
+    <string name="quiz_nine_opt3">Instagram</string>
+
+
+    <string name="quiz_ten_opt1">Ridley Scott</string>
+    <string name="quiz_ten_opt2">James Cameron</string>
+    <string name="quiz_ten_opt3">Steven Soderbergh</string>
+
+    <string name="btn_continue">Continue</string>
+    <string name="total_score">Your Total Score:</string>
+
+
+</resources>
